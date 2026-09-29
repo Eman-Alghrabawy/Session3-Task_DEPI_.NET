@@ -25,10 +25,18 @@ namespace Session3_Task
             //Console.WriteLine(number);
             //Exception we could use tryparse to solve it
 
+            //Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+            double num1 = 10.5;
+            double num2 = 2.5;
+
+            double result = num1 + num2;
+
+            Console.WriteLine("Result = " + result);
+        
 
 
 
 
-        }
+    }
     }
 }
