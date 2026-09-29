@@ -51,6 +51,15 @@ namespace Session3_Task
 
             //Console.WriteLine("num1 = " + num1);
             //Console.WriteLine("num2 = " + num2);
+            //Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+            //Point p1 = new Point(10, 20);
+
+            //Point p2 = p1;
+
+            //p2.X = 50;
+
+            //Console.WriteLine("p1.X = " + p1.X);
+            //Console.WriteLine("p2.X = " + p2.X);
 
 
 
