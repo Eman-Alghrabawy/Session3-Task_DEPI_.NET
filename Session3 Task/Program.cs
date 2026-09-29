@@ -26,17 +26,25 @@ namespace Session3_Task
             //Exception we could use tryparse to solve it
 
             //Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
-            double num1 = 10.5;
-            double num2 = 2.5;
+            //double num1 = 10.5;
+            //double num2 = 2.5;
 
-            double result = num1 + num2;
+            //double result = num1 + num2;
 
-            Console.WriteLine("Result = " + result);
-        
+            //Console.WriteLine("Result = " + result);
+
+            //Write C# program that Extract a substring from a given string.
+
+            //string text = "Hello DEPI";
+
+            //string result = text.Substring(0, 5);
+
+            //Console.WriteLine(result);
 
 
 
 
-    }
+
+        }
     }
 }
