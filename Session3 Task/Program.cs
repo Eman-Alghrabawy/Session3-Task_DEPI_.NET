@@ -61,6 +61,14 @@ namespace Session3_Task
             //Console.WriteLine("p1.X = " + p1.X);
             //Console.WriteLine("p2.X = " + p2.X);
 
+            //Write C# program that take two string variables and print them as one variable 
+            //string firstName = "Eman";
+            //string lastName = "Youssef";
+
+            //string fullName = firstName + " " + lastName;
+
+            //Console.WriteLine(fullName);
+
 
 
         }
