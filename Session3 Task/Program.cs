@@ -41,7 +41,16 @@ namespace Session3_Task
 
             //Console.WriteLine(result);
 
+            //Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
 
+            //int num1 = 10;
+
+            //int num2 = num1;
+
+            //num2 = 20;
+
+            //Console.WriteLine("num1 = " + num1);
+            //Console.WriteLine("num2 = " + num2);
 
 
 
