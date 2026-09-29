@@ -76,6 +76,16 @@ namespace Session3_Task
             //Console.WriteLine(d);
 
             //The expression will give true after conversion it will be 1 A value 1 will be assigned to d.
+             
+            //Which of the following is the correct output for the C# code given below?
+
+
+            //Console.WriteLine(13 / 2 + " " + 13 % 2);
+            //Output= 6 1
+
+
+
+
 
 
 
