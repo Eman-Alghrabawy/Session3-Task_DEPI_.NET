@@ -69,6 +69,14 @@ namespace Session3_Task
 
             //Console.WriteLine(fullName);
 
+            //Which of the following statements is correct about the C#.NET code snippet given below?
+
+            //int d;
+            //d = Convert.ToInt32(!(30 < 20));
+            //Console.WriteLine(d);
+
+            //The expression will give true after conversion it will be 1 A value 1 will be assigned to d.
+
 
 
         }
